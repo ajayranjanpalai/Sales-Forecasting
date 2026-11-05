@@ -1,6 +1,6 @@
 # 📈 E-Commerce Sales Forecasting System
 
-An enterprise-grade, end-to-end time-series forecasting solution designed to predict future sales from historical e-commerce transactions using **ARIMA / SARIMAX**, **Facebook Prophet**, **Deep LSTM Neural Networks**, and **Machine Learning Ensemble Models**.
+An enterprise-grade, end-to-end time-series forecasting solution designed to predict future sales from historical e-commerce transactions using **ARIMA / SARIMAX**, **Facebook Prophet**, **Deep LSTM Neural Networks**, and **Machine Learning Ensemble Models**. 
 
 ---
 

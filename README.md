@@ -6,7 +6,7 @@ An enterprise-grade, end-to-end time-series forecasting solution designed to pre
 
 ## 🌟 Key Features
 
-1. **Multi-Model Forecasting Engine**:
+1. **Multi-Model Forecasting Engine**: 
    - **SARIMAX $(p, d, q) \times (P, D, Q)_s$**: Classical statistical model capturing autocorrelation, differencing, moving averages, and 7-day seasonality with exogenous promotional inputs.
    - **Facebook Prophet**: Generalized Additive Model (GAM) incorporating non-linear growth curves, weekly/monthly seasonalities, changepoints, and promotional discount regressors with Bayesian uncertainty estimation.
    - **Deep LSTM Sequential Network**: Recurrent neural network built with TensorFlow/Keras capable of capturing non-linear temporal sequence patterns across multi-variate lag and rolling dynamics.
